@@ -1,0 +1,6 @@
+{
+  "name": "Samsung S23 EXIF & OsmAnd Navigator",
+  "description": "Analyse en profondeur des métadonnées EXIF et MakerNotes cachés Samsung S23, coordonnées GPS précises et transmission vers OsmAnd.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

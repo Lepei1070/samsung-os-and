@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "name": "Samsung S23 Photo vers OsmAnd",
+  "short_name": "PhotoOsmAnd",
+  "description": "Extraction GPS de vos photos Samsung S23 et envoi direct en 1 clic vers OsmAnd.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#020617",
+  "theme_color": "#f59e0b",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
